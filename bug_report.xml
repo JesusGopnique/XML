@@ -1,1 +1,7 @@
-
+<xml>
+  <ID>1</ID>
+  <Title>Выбор валюты</Title>
+  <Preconditions>Открыть окно выбора валюты</Preconditions>
+  <Steps>1) Выбрать Евро, 2) Нажать кнопку принять</Steps>
+  <Actual> Неверная конвертация</Actual>
+  <Expected>Конвертация в соответсивии с курсом нац. банка</Expected>
